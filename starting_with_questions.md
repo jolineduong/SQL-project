@@ -79,6 +79,9 @@ ORDER BY totaltransaction DESC
 ```
 
 Answer:
+<img width="288" alt="Screen Shot 2023-10-30 at 6 21 23 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/c261a320-f607-4c1e-8782-ddb90be89293">
+
+<img width="287" alt="Screen Shot 2023-10-30 at 6 22 01 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/f62cc40f-09bc-4ce6-8950-156158f65832">
 
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**
