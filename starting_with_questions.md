@@ -264,6 +264,7 @@ GROUP BY p1.city, p1.productcategory
 
 
 Answer:
+I do not believe there is enough data to successfully determine if there is a pattern. 
 <img width="389" alt="Screen Shot 2023-10-30 at 6 29 46 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/32a5650a-7c17-42f1-b6a5-97c2f4d5e782">
 <img width="385" alt="Screen Shot 2023-10-30 at 6 30 00 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/da3c6e6f-90fd-4dec-9413-da6edf554c82">
 
@@ -334,6 +335,7 @@ WHERE tp.totalordered = (
 
 
 Answer:
+I do not believe there is enough data to successfully determine if there is a pattern. 
 <img width="586" alt="Screen Shot 2023-10-30 at 6 31 32 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/4a2125fb-06f5-4abd-84e9-c739f7f8aaf5">
 <img width="597" alt="Screen Shot 2023-10-30 at 6 31 50 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/d233ab62-80a2-44ed-ae7a-72dd189288fd">
 
