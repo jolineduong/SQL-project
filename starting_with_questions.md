@@ -179,6 +179,9 @@ HAVING round(AVG(o.totalordered),2) IS NOT NULL and round(AVG(o.totalordered),2)
 ```
 
 Answer:
+<img width="275" alt="Screen Shot 2023-10-30 at 6 26 26 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/79aa8092-8234-4ef8-943d-57737787c1ca">
+<img width="279" alt="Screen Shot 2023-10-30 at 6 27 31 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/088fbe98-788a-466d-acb1-13e9204306f2">
+
 
 
 **Question 3: Is there any pattern in the types (product categories) of products ordered from visitors in each city and country?**
