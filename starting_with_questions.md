@@ -80,7 +80,6 @@ ORDER BY totaltransaction DESC
 
 Answer:
 <img width="288" alt="Screen Shot 2023-10-30 at 6 21 23 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/c261a320-f607-4c1e-8782-ddb90be89293">
-
 <img width="287" alt="Screen Shot 2023-10-30 at 6 22 01 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/f62cc40f-09bc-4ce6-8950-156158f65832">
 
 
@@ -183,7 +182,6 @@ Answer:
 <img width="279" alt="Screen Shot 2023-10-30 at 6 27 31 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/088fbe98-788a-466d-acb1-13e9204306f2">
 
 
-
 **Question 3: Is there any pattern in the types (product categories) of products ordered from visitors in each city and country?**
 
 
@@ -266,7 +264,8 @@ GROUP BY p1.city, p1.productcategory
 
 
 Answer:
-
+<img width="389" alt="Screen Shot 2023-10-30 at 6 29 46 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/32a5650a-7c17-42f1-b6a5-97c2f4d5e782">
+<img width="385" alt="Screen Shot 2023-10-30 at 6 30 00 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/da3c6e6f-90fd-4dec-9413-da6edf554c82">
 
 
 **Question 4: What is the top-selling product from each city/country? Can we find any pattern worthy of noting in the products sold?**
@@ -335,7 +334,8 @@ WHERE tp.totalordered = (
 
 
 Answer:
-
+<img width="586" alt="Screen Shot 2023-10-30 at 6 31 32 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/4a2125fb-06f5-4abd-84e9-c739f7f8aaf5">
+<img width="597" alt="Screen Shot 2023-10-30 at 6 31 50 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/d233ab62-80a2-44ed-ae7a-72dd189288fd">
 
 
 **Question 5: Can we summarize the impact of revenue generated from each city/country?**
@@ -404,10 +404,8 @@ HAVING SUM(totaltransactionrevenue) IS NOT NULL
 
 
 Answer:
-
-
-
-
+<img width="273" alt="Screen Shot 2023-10-30 at 6 33 07 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/71cb121e-b6bd-46bc-a382-7d5b5b3375e9">
+<img width="273" alt="Screen Shot 2023-10-30 at 6 33 20 PM" src="https://github.com/issajojoke/SQL-project/assets/140217218/e5574149-173a-4e75-a44a-d0bfb5a18295">
 
 
 
