@@ -1,4 +1,4 @@
-# Final-Project-Transforming-and-Analyzing-Data-with-SQL
+# Transforming and Analayzing Data with SQL
 
 ## Project/Goals
 I wanted to clean the dataset well enough to be able to adequately extract the data I needed in order to answer the questions in the task.
